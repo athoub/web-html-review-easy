@@ -25,7 +25,7 @@
 - انتبه على الكتابه داخل وسم <body>
 
 بونص:
-اضف رموز تعبيريه للفقرات (Emojis) - 
-https://www.w3schools.com/html/html_emojis.asp
+اضف رموز تعبيريه للفقرات (Emojis) - html
+https://www.w3schools.com//html_emojis.asp
 
 - استخدام صور لتفسير موقعك <img>
